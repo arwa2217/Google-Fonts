@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+    font-family: 'Courgette', cursive;
+    
+}
+p{
+    font-family: 'Lato', sans-serif;
+    text-align: justify;
+    padding: 10px;;
+}
